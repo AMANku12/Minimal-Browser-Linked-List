@@ -1,1 +1,0 @@
-# Minimal-Browser-Linked-List
